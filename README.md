@@ -31,5 +31,5 @@ A prototype web-based vehicle tracking and analytics system for Kenya, built wit
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/kenya-vehicle-tracking.git
+   git clone https://github.com/system.py/kenya-vehicle-tracking.git
    cd kenya-vehicle-tracking
