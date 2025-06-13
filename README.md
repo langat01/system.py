@@ -1,4 +1,4 @@
-# 🇰🇪 Kenya Vehicle Tracking & Analytics System
+# Kenya Vehicle Tracking & Analytics System
 
 A prototype web-based vehicle tracking and analytics system for Kenya, built with **Streamlit**, **Folium**, and **Pandas**. It simulates real-time vehicle movement, monitors speed violations, and visualizes data on an interactive map.
 
